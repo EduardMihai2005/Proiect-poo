@@ -1,0 +1,4 @@
+1 25.5 5.0 National Geographic
+2 15.0 vogue.com/download Vogue Digital
+1 30.0 4.0 Auto Motor Sport
+2 10.0 pcworld.ro/pdf PC World
